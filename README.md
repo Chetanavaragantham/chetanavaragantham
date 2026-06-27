@@ -1,6 +1,6 @@
-# Hi, I'm Chetana 👋
+# Hello, I'm Chetana 👋
 
-**ML Engineer · NLP · Generative AI**
+**AI Engineer**
 
 > I build production-ready AI systems — RAG pipelines, LLM integrations, and evaluation frameworks that actually ship.
 
@@ -114,17 +114,7 @@ EDA → feature engineering → 5-fold cross-validation → hyperparameter tunin
 - 🔭 Building AI systems with rigorous evaluation — things that work, not just demo
 - 🏆 Phi Kappa Phi Honor Society — inducted 2025
 - 👥 CS Club President (ACM Chapter) — AI/ML workshops for 100+ members
-- 📬 Open to: **ML Engineer** · **AI Engineer** · **Data Scientist** ·
-
----
-
-*Last updated: June 2026*
-
-- 🎓 MS CS @ Auburn University at Montgomery — GPA 3.92 — graduated May 2026
-- 🔭 Building AI systems with rigorous evaluation — things that work, not just demo
-- 🏆 Phi Kappa Phi Honor Society — inducted 2025
-- 👥 CS Club President (ACM Chapter) — AI/ML workshops for 100+ members
-- 📬 Open to: **ML Engineer** · **AI Engineer** · **Data Scientist** · **SWE (AI/ML)**
+- 📬 Open to:  **AI Engineer** · **ML Engineer** · **Data Scientist** ·
 
 ---
 
