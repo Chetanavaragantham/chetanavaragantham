@@ -4,8 +4,7 @@
 
 > I build production-ready AI systems — RAG pipelines, LLM integrations, and evaluation frameworks that actually ship.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-chetanavara-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/chetanavara)
-[![Email](https://img.shields.io/badge/Email-cvaragan@aum.edu-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:chetanavaragantham02@gmail.com)
+[![Email](https://img.shields.io/badge/Email-chetanavara@gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:chetanavara@gmail.com)
 [![HuggingFace](https://img.shields.io/badge/🤗%20HuggingFace-Spaces-FFD21E?style=flat)]([https://huggingface.co](https://huggingface.co/spaces/Chetanavaragantham))
 [![JETIR](https://img.shields.io/badge/Published-JETIR%202022-4CAF50?style=flat&logo=academia&logoColor=white)]([https://www.jetir.org](https://www.jetir.org/view?paper=JETIR2205397))
 
